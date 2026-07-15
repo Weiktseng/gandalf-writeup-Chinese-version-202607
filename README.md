@@ -1,6 +1,7 @@
 # Lakera Gandalf 中文解法
+注意雖然這個網站存在很久了，但是他們有持續更新防禦，過時的辦法在現在可能卡關，reddit上網友的方法現在幾乎不行。
 
-https://gandalf.lakera.ai
+遊玩網站https://gandalf.lakera.ai
 
 > 密碼收合在 spoiler。Gandalf 原始輸出保留，出現密碼原文處碼掉。第 8 關會輪替。
 
