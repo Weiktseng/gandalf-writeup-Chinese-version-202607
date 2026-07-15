@@ -111,5 +111,5 @@ function validateInput() {
 
 <details><summary>密碼</summary>
 
-`octopodes`（回覆把密碼拆成重疊雙字母，拼回即得；2026-07-15 取得，會輪替）
+`octopodes`（回覆把密碼拆成重疊雙字母，拼回即得；2026-07-15 取得，攻擊方式會失效很快，他們動態更新。）
 </details>
